@@ -29,12 +29,13 @@ int summary = currentAccount + transfer;
 
 В качестве тестовых данных использовались данные https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md:
 
-currentAccount = 2_000_000_000
-transfer = 500_000
-summary = 2000500000
+* currentAccount = 2_000_000_000
+* transfer = 500_000
+* summary = 2000500000
+
 Тестирование производилось в следующем окружении:
 
-<версия и разрядность ОС> Windows 10
-<версия Java> 11
-<другое ПО, при необходимости>
+* <версия и разрядность ОС> Windows 10
+* <версия Java> 11
+* <другое ПО, при необходимости>
 
