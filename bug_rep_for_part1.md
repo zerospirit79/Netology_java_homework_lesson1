@@ -6,8 +6,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 >   * Выходные данные не соответствуют входным. 
->   * Issue 
->    https://github.com/zerospirit79/Netology_java_homework_lesson1/issues/1#issue-1014276224
+>   * [Issue](https://github.com/zerospirit79/Netology_java_homework_lesson1/issues/1#issue-1014276224)
 
 1.  Описание процесса тестирования
 >    В процессе тестирования использовались следующие артефакты*:
@@ -29,7 +28,7 @@ int summary = currentAccount + transfer;
 
 Примечание*: не указывайте артефакты "для галочки". Если вы сюда напишите тест-план, то мы попросим вас его показать (а если не покажете - то отправим работу на доработку). Пишите только то, что реально существует и требуется в задании.
 
-2.  В качестве тестовых данных использовались данные https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md:
+2.  В качестве тестовых данных использовались данные [info](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md):
 
  * currentAccount = 2_000_000_000
  * transfer = 500_000
