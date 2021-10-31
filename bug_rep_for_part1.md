@@ -6,7 +6,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 >   * Выходные данные не соответствуют входным. 
->   * [Issue](https://github.com/zerospirit79/Netology_java_homework_lesson1/issues/1#issue-1014276224)
+>   * [wrong output data type](https://github.com/zerospirit79/Netology_java_homework_lesson1/issues/1#issue-1014276224)
 
 1.  Описание процесса тестирования
 >    В процессе тестирования использовались следующие артефакты*:
