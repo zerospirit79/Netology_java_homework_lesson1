@@ -2,10 +2,10 @@
 ## Краткое описание ##
 23.09 - 23.09 было проведено Unit test приложения Money transfer.
 
-На тестирование затрачено: 30 min
+На тестирование затрачено: 1 hour 30 min
 
 В результате тестирования выявлены следующие дефекты:
->   * Выходные данные не соответствуют входным. 
+>   * Вывод не соответствует фактическому результату. 
 >   * [wrong output data](https://github.com/zerospirit79/Netology_java_homework_lesson1/issues/1#issue-1014276224)
 
 1.  Описание процесса тестирования
@@ -31,8 +31,8 @@ int summary = currentAccount + transfer;
 2.  В качестве тестовых данных использовались данные [info](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md):
 
  * currentAccount = 2_000_000_000
- * transfer = 500_000
- * summary = 2000500000
+ * transfer = 500_000_000
+ * summary = 2500000000
 
 3. Тестирование производилось в следующем окружении:
 
